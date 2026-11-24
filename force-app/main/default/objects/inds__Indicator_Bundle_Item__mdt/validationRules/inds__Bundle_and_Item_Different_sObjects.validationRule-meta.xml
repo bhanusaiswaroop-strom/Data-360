@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>inds__Bundle_and_Item_Different_sObjects</fullName>
+    <active>true</active>
+    <errorConditionFormula>inds__Indicator_Bundle__r.inds__sObject__c != inds__Indicator_Item__r.inds__sObject__c</errorConditionFormula>
+    <errorMessage>The Indicator Bundle and Indicator Item must belong to the same sObject.</errorMessage>
+</ValidationRule>

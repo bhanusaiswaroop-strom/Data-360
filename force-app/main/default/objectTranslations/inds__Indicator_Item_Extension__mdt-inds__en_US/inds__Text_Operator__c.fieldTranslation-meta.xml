@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- For &quot;Contains Text&quot; value, choose how to match the text. Defaults to Contains if no value entered. --></help>
+    <label><!-- Text Operator --></label>
+    <name>inds__Text_Operator__c</name>
+    <picklistValues>
+        <masterLabel>Contains</masterLabel>
+        <translation><!-- Contains --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Does Not Equal</masterLabel>
+        <translation><!-- Does Not Equal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Equals</masterLabel>
+        <translation><!-- Equals --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Starts With</masterLabel>
+        <translation><!-- Starts With --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

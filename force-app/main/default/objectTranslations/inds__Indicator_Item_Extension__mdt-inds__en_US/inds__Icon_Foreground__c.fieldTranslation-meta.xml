@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Override the default foreground of the Extenion Indicator&apos;s Salesforce Icon. --></help>
+    <label><!-- Icon Foreground --></label>
+    <name>inds__Icon_Foreground__c</name>
+</CustomFieldTranslation>

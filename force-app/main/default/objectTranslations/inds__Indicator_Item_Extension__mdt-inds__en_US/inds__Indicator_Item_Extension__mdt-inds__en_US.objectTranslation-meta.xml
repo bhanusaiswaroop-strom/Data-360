@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Indicator Item Extension</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Indicator Item Extensions</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Indicator Item is a Numeric Type and requires a Minimum value. --></errorMessage>
+        <name>inds__Numeric_Missing_Minimum</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Indicator Item is a String/Picklist Type and requires a Contains Text value --></errorMessage>
+        <name>inds__String_Missing_Contains_Text</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Indicator Item</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Indicator Items</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- If Static Text field is empty, please select a behavior for the indicator. --></errorMessage>
+        <name>inds__EmptyStaticTextMustHaveBehavior</name>
+    </validationRules>
+</CustomObjectTranslation>

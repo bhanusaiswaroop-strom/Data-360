@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Override the default background of the Card&apos;s Salesforce Icon. --></help>
+    <label><!-- Card Icon Background --></label>
+    <name>inds__Card_Icon_Background__c</name>
+</CustomFieldTranslation>

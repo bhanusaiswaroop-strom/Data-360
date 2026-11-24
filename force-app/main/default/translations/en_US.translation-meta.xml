@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customTabs>
+        <label><!-- Lookup Rollup List View --></label>
+        <name>dlrs__LookupRollupListView</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Lookup Rollup Summaries Tools --></label>
+        <name>dlrs__LookupRollupSummariesHome</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Manage Lookup Rollup Summaries --></label>
+        <name>dlrs__ManageLookupRollupSummaries</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Manage Lookup Rollup Summaries (Beta) --></label>
+        <name>dlrs__ManageLookupRollupSummaries2</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Welcome --></label>
+        <name>dlrs__Welcome</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Indicators Setup --></label>
+        <name>inds__Indicators_Setup</name>
+    </customTabs>
+</Translations>
